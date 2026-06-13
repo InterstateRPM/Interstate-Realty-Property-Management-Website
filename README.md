@@ -6,7 +6,7 @@ Static website ready for GitHub + Netlify.
 - `index.html` — Home
 - `about.html` — About
 - `rentals.html` — Available Rentals
-- `apply.html` — Apply Online
+- `prequalification.html` — Request Prequalification
 - `maintenance.html` — Maintenance Requests
 - `resources.html` — Tenant Resources
 - `contact.html` — Contact
@@ -18,8 +18,8 @@ Search the files for these placeholder values and replace them:
 - `YOUR_RENTREDI_MAINTENANCE_LINK_HERE`
 - `YOUR_RENTREDI_OR_STESSA_PORTAL_LINK_HERE`
 - `YOUR_DROPBOX_UPLOAD_LINK_HERE`
-- `leasing@yourdomain.com`
-- `(000) 000-0000`
+- `kimberly@interstaterealtypm.com`
+- `(909) 736-7952`
 
 ## Upload to GitHub
 1. Create a new GitHub repository.
